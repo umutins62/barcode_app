@@ -6,23 +6,30 @@ This project is a simple barcode generator web application developed with Django
 Basit Barcode Oluşturucu Web Uygulaması
 Bu proje, Django ile geliştirilmiş basit bir barcode oluşturucu web uygulamasıdır.
 
-Özellikler
+# Özellikler
+
   Oluşturulan barcode'lar  PNG formatında indirilebilir.
   Oluşturulan barcode'lar veritabanında saklanır ve sonraki kullanımlar için erişilebilir.
   Barcode oluştururken girilen veriler doğrulanır.
   Basit ve kullanışlı arayüz.
-Kullanılan Teknolojiler
+  
+# Kullanılan Teknolojiler
+
   Django
   Python
   Barcode kütüphanesi
   Bootstrap
   SQLite veritabanı
-Kurulum
+  
+# Kurulum
+
   Repo'yu kopyalayın.
   Gerekli bağımlılıkları yükleyin.
   Veritabanını migrate edin.
   Localhost'ta çalıştırın.
-Kullanım
+  
+# Kullanım
+
   Gerekli veriyi girin (ISBN, ürün kodu vb.)
   Oluştur tuşuna basın.
   İndir veya veritabanına kaydet seçenekleriyle barcode'ınızı alın.
