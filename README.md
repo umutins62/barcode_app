@@ -1,4 +1,4 @@
-# barcode_app
+#python dango barcode_app
 This project is a simple barcode generator web application developed with Django.
 
 Basit Barcode Oluşturucu Web Uygulaması
