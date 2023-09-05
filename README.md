@@ -24,7 +24,6 @@ Kullanım
   Gerekli veriyi girin (ISBN, ürün kodu vb.)
   Oluştur tuşuna basın.
   İndir veya veritabanına kaydet seçenekleriyle barcode'ınızı alın.
-Katkıda Bulunma
-  Ek özellikler ve geliştirmeler için pull request'ler kabul edilir. Lütfen önce bir issue açınız.
+
 
 
